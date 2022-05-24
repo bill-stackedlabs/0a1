@@ -14,8 +14,8 @@ const SafeHydrate = ({ children }) => {
 const App = ({ Component, pageProps }: AppProps) => (
   <>
     <NextSeo
-      title="Revoke.cash - Revoke your Ethereum token allowances"
-      description="Protect your Ethereum token balances by revoking allowances and permissions you granted applications in the past."
+      title="0a1.eth - Track the Blockchain"
+      description="Access point into the Blockchain and Metaverse."
       canonical="https://revoke.cash/"
       openGraph={{
         url: "https://revoke.cash/",
