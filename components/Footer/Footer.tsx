@@ -5,8 +5,8 @@ import { ToastContainer } from "react-toastify";
 const Footer: React.FC = () => (
   <div style={{ padding: '20px' }}>
     <p>
-      Site created by{' '}
-      <a href="https://twitter.com/RoscoKalis">Rosco Kalis</a> / {' '}
+      By{' '}
+      <a href="https://twitter.com/RoscoKalis">0a1 Labs</a> / {' '}
       <a href="https://github.com/rkalis/revoke.cash">Source Code</a> / {' '}
       <a href="https://twitter.com/RevokeCash">Official Twitter</a>
     </p>
